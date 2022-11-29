@@ -2,6 +2,7 @@ package FlowEx;
 
 import java.util.*;                     // Scanner 클래스를 사용하기 위해서 추가
 
+// if-else문
 public class FlowEx03 {
     public static void main(String[] args) {
         System.out.println("숫자를 하나 입력하세용 -> ");

@@ -2,6 +2,7 @@ package FlowEx;
 
 import java.util.*;                                 // Scanner클래스를 사용하기 위해서 추가
 
+// if문
 public class FlowEx02 {
     public static void main(String[] args) {
         int input;
