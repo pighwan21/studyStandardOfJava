@@ -14,5 +14,5 @@ public class FlowEx24 {
             }
         }
         System.out.println("당신은 죽었습니다");
-    }
-}
+    } // main
+} // class
