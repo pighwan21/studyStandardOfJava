@@ -25,5 +25,5 @@ public class FlowEx27 {
             }
         }
         System.out.println("합계 : " + sum);
-    }
-}
+    } // main
+} // class
